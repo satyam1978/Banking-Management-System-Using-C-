@@ -1,4 +1,4 @@
-# Banking-Management-System-Using-C-
+# Banking-Management-System-Using-C++
 Banking Management System (C++) is a console-based application developed using C++ that simulates basic banking operations.
 This project is designed for students and beginners to understand file handling, OOP concepts, and logic building in C++.
 
